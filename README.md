@@ -1,8 +1,4 @@
 # Java-Experiment-7
-# Experiment-7
-
-# Object Creation Outside Main Class
-
 ## Aim:
   To write a Java program to create an object outside the main class.
   
@@ -19,8 +15,9 @@ Step 4 : Using the 'extends' keyword you can inherit classes, do the same with a
 Step 5 : Display the statements from the first and secomd Class using Solution Class in the terminal.
 
 ## Program
-
-
+```
+Developed by: S.Sham Rathan
+Register.no : 212221230093
 public class Employee
 {
     public void display(){
@@ -44,6 +41,7 @@ public class Solution {
         emp3.employee("John",1999,"50k","26B-WallStreet");
     }
 }
+```
 
 
 ## Output
