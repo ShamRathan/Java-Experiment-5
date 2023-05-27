@@ -1,4 +1,5 @@
-# Java-Experiment-7
+# Java-Experiment-5
+
 ## Aim:
   To write a Java program to create an object outside the main class.
   
